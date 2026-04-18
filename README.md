@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I'm Ahmed!  <br>💻 Junior Flutter Developer <br>📱 Love building real-world cross-platform apps  <br>🌱Currently Learning Subabase & Animations  <br>🤝 Open to collaboration and tech chats!<br>
+👋 Hi, I'm Ahmed!  <br>💻 Junior Flutter Developer <br>📱 Love building real-world cross-platform apps  <br>🌱Currently Learning System design & backend fundamentals  <br>🤝 Open to collaboration and tech chats!<br>
 
 
 ## Socials:
